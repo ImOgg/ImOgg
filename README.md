@@ -34,3 +34,4 @@
 - 📧 **Email**: [xxx871022@gmail.com](mailto:xxx871022@gmail.com)
 - 📍 **Location**: Taiwan, New Taipei City
 - 💼 **LinkedIn**: [致元 陳](https://www.linkedin.com/in/%E8%87%B4%E5%85%83-%E9%99%B3-23800a270/)
+- 📖 **Blog** :[Blog](https://imogg-blog-n4c8gayiy-imoggs-projects.vercel.app/)
