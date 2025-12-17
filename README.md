@@ -8,7 +8,7 @@
 
 | Years Experience | Projects Completed | Projects Launched |
 | :---: | :---: | :---: |
-| **2+** | **10+** | **3+** |
+| **3+** | **10+** | **3+** |
 
 ## 🛠️ Tech Stack
 
