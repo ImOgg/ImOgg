@@ -1,4 +1,4 @@
-# Hi, I'm Circles 👋
+# Hi, I'm Cyrus 👋
 
 > 一位熱愛挑戰的全端網頁開發者，擅長運用 Vue.js / Nuxt 與 Laravel 從0打造互動性強、結構清晰的數位應用。
 
